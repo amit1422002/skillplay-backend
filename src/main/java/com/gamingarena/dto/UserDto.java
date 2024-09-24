@@ -22,6 +22,6 @@ public class UserDto {
     private   Date modifie;
     private    int coins;
     private  String bgmiUsername;
-
+    private int miniToken;
     private     List<BgmiDto> bgmiData;
 }
